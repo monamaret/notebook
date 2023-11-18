@@ -1,0 +1,6 @@
+[submodule "themes/hugo-digital-garden-theme"]
+	path = themes/hugo-digital-garden-theme
+	url = https://github.com/paulmartins/hugo-digital-garden-theme.git
+[submodule "content"]
+	path = content
+	url = git@github.com:monamaret/notebook-content.git
